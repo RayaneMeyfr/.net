@@ -1,0 +1,15 @@
+C:\Users\Rayan\Documents\WorkSpace\C#\exercice\bin\Debug\net10.0\exercice.exe
+C:\Users\Rayan\Documents\WorkSpace\C#\exercice\bin\Debug\net10.0\exercice.deps.json
+C:\Users\Rayan\Documents\WorkSpace\C#\exercice\bin\Debug\net10.0\exercice.runtimeconfig.json
+C:\Users\Rayan\Documents\WorkSpace\C#\exercice\bin\Debug\net10.0\exercice.dll
+C:\Users\Rayan\Documents\WorkSpace\C#\exercice\bin\Debug\net10.0\exercice.pdb
+C:\Users\Rayan\Documents\WorkSpace\C#\exercice\obj\Debug\net10.0\exercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayan\Documents\WorkSpace\C#\exercice\obj\Debug\net10.0\exercice.AssemblyInfoInputs.cache
+C:\Users\Rayan\Documents\WorkSpace\C#\exercice\obj\Debug\net10.0\exercice.AssemblyInfo.cs
+C:\Users\Rayan\Documents\WorkSpace\C#\exercice\obj\Debug\net10.0\exercice.csproj.CoreCompileInputs.cache
+C:\Users\Rayan\Documents\WorkSpace\C#\exercice\obj\Debug\net10.0\exercice.sourcelink.json
+C:\Users\Rayan\Documents\WorkSpace\C#\exercice\obj\Debug\net10.0\exercice.dll
+C:\Users\Rayan\Documents\WorkSpace\C#\exercice\obj\Debug\net10.0\refint\exercice.dll
+C:\Users\Rayan\Documents\WorkSpace\C#\exercice\obj\Debug\net10.0\exercice.pdb
+C:\Users\Rayan\Documents\WorkSpace\C#\exercice\obj\Debug\net10.0\exercice.genruntimeconfig.cache
+C:\Users\Rayan\Documents\WorkSpace\C#\exercice\obj\Debug\net10.0\ref\exercice.dll
