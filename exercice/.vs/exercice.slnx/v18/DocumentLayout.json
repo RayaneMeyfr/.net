@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\exercice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\exercice\\class\\pendu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|solutionrelative:class\\pendu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\exercice\\class\\generermot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|solutionrelative:class\\generermot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\exercice\\class\\salarie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\exercice\\class\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|solutionrelative:class\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\exercice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Chaise.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\Chaise.cs",
               "RelativeDocumentMoniker": "Class\\Chaise.cs",
@@ -40,7 +48,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pendu.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\Pendu.cs",
+              "RelativeDocumentMoniker": "Class\\Pendu.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\Pendu.cs",
+              "RelativeToolTip": "Class\\Pendu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T12:59:25.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GenererMot.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\GenererMot.cs",
+              "RelativeDocumentMoniker": "Class\\GenererMot.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\GenererMot.cs",
+              "RelativeToolTip": "Class\\GenererMot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T12:49:36.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Salarie.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\Salarie.cs",
               "RelativeDocumentMoniker": "Class\\Salarie.cs",
@@ -53,13 +87,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAF8AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAF8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T10:22:30.056Z",
               "EditorCaption": ""
