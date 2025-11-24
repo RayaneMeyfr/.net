@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\exercice\\class\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|solutionrelative:class\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\exercice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\exercice\\class\\salarie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|solutionrelative:class\\salarie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\exercice\\class\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|solutionrelative:class\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Chaise.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\Chaise.cs",
               "RelativeDocumentMoniker": "Class\\Chaise.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\Chaise.cs",
               "RelativeToolTip": "Class\\Chaise.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T10:34:41.358Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Salarie.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\Salarie.cs",
+              "RelativeDocumentMoniker": "Class\\Salarie.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\Salarie.cs",
+              "RelativeToolTip": "Class\\Salarie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:48:08.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T10:22:30.056Z",
               "EditorCaption": ""
