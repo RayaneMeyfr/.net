@@ -3,31 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{52FDF516-7D6E-433D-AF8D-7D298FB57DB5}|..\\tpPile\\tpPile.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\tppile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FDF516-7D6E-433D-AF8D-7D298FB57DB5}|..\\tpPile\\tpPile.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\tppile\\class\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FDF516-7D6E-433D-AF8D-7D298FB57DB5}|..\\tpPile\\tpPile.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\tppile\\class\\generique\\pile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F63BEA4F-7E57-4B53-A83B-1E52DD2B5CF6}|..\\Figure\\Figure.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\figure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F63BEA4F-7E57-4B53-A83B-1E52DD2B5CF6}|..\\Figure\\Figure.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\figure\\class\\clsfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F63BEA4F-7E57-4B53-A83B-1E52DD2B5CF6}|..\\Figure\\Figure.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\figure\\class\\interface\\ideplacable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F63BEA4F-7E57-4B53-A83B-1E52DD2B5CF6}|..\\Figure\\Figure.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\figure\\class\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F63BEA4F-7E57-4B53-A83B-1E52DD2B5CF6}|..\\Figure\\Figure.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\figure\\class\\carre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F63BEA4F-7E57-4B53-A83B-1E52DD2B5CF6}|..\\Figure\\Figure.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\figure\\class\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F63BEA4F-7E57-4B53-A83B-1E52DD2B5CF6}|..\\Figure\\Figure.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\figure\\class\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F63BEA4F-7E57-4B53-A83B-1E52DD2B5CF6}|..\\Figure\\Figure.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\figure\\figure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{192D1D85-99CF-428C-B3E4-05C95A27FD22}|..\\banque\\banque.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\banque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,123 +22,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Point.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Class\\Point.cs",
-              "RelativeDocumentMoniker": "..\\Figure\\Class\\Point.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Class\\Point.cs",
-              "RelativeToolTip": "..\\Figure\\Class\\Point.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:24:44.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Triangle.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Class\\Triangle.cs",
-              "RelativeDocumentMoniker": "..\\Figure\\Class\\Triangle.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Class\\Triangle.cs",
-              "RelativeToolTip": "..\\Figure\\Class\\Triangle.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCMAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:27:48.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Program.cs",
-              "RelativeDocumentMoniker": "..\\banque\\Program.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Program.cs",
-              "RelativeToolTip": "..\\banque\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:46:07.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ClsFigure.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Class\\ClsFigure.cs",
-              "RelativeDocumentMoniker": "..\\Figure\\Class\\ClsFigure.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Class\\ClsFigure.cs",
-              "RelativeToolTip": "..\\Figure\\Class\\ClsFigure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpPile\\Class\\Personne.cs",
+              "RelativeDocumentMoniker": "..\\tpPile\\Class\\Personne.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpPile\\Class\\Personne.cs",
+              "RelativeToolTip": "..\\tpPile\\Class\\Personne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T11:22:49.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Figure",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Figure.csproj",
-              "RelativeDocumentMoniker": "..\\Figure\\Figure.csproj",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Figure.csproj",
-              "RelativeToolTip": "..\\Figure\\Figure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-25T11:18:24.08Z",
+              "WhenOpened": "2025-11-25T15:10:22.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Class\\Rectangle.cs",
-              "RelativeDocumentMoniker": "..\\Figure\\Class\\Rectangle.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Class\\Rectangle.cs",
-              "RelativeToolTip": "..\\Figure\\Class\\Rectangle.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCQAAABfAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Figure\\Program.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Program.cs",
+              "RelativeToolTip": "..\\Figure\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:27:01.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Carre.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Class\\Carre.cs",
-              "RelativeDocumentMoniker": "..\\Figure\\Class\\Carre.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Class\\Carre.cs",
-              "RelativeToolTip": "..\\Figure\\Class\\Carre.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:23:43.574Z",
+              "WhenOpened": "2025-11-25T15:05:11.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IDeplacable.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Class\\Interface\\IDeplacable.cs",
-              "RelativeDocumentMoniker": "..\\Figure\\Class\\Interface\\IDeplacable.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Class\\Interface\\IDeplacable.cs",
-              "RelativeToolTip": "..\\Figure\\Class\\Interface\\IDeplacable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "Pile.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpPile\\Class\\Generique\\Pile.cs",
+              "RelativeDocumentMoniker": "..\\tpPile\\Class\\Generique\\Pile.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpPile\\Class\\Generique\\Pile.cs",
+              "RelativeToolTip": "..\\tpPile\\Class\\Generique\\Pile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T11:28:48.111Z",
+              "WhenOpened": "2025-11-25T14:53:33.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Figure\\Program.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Program.cs",
-              "RelativeToolTip": "..\\Figure\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA0AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpPile\\Program.cs",
+              "RelativeDocumentMoniker": "..\\tpPile\\Program.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpPile\\Program.cs",
+              "RelativeToolTip": "..\\tpPile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T11:17:04.315Z",
+              "WhenOpened": "2025-11-25T14:55:46.905Z",
               "EditorCaption": ""
             }
           ]

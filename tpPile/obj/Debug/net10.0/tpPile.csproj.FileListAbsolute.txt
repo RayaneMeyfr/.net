@@ -1,0 +1,15 @@
+C:\Users\Rayan\Documents\WorkSpace\C#\tpPile\obj\Debug\net10.0\tpPile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayan\Documents\WorkSpace\C#\tpPile\obj\Debug\net10.0\tpPile.AssemblyInfoInputs.cache
+C:\Users\Rayan\Documents\WorkSpace\C#\tpPile\obj\Debug\net10.0\tpPile.AssemblyInfo.cs
+C:\Users\Rayan\Documents\WorkSpace\C#\tpPile\obj\Debug\net10.0\tpPile.csproj.CoreCompileInputs.cache
+C:\Users\Rayan\Documents\WorkSpace\C#\tpPile\obj\Debug\net10.0\tpPile.sourcelink.json
+C:\Users\Rayan\Documents\WorkSpace\C#\tpPile\bin\Debug\net10.0\tpPile.exe
+C:\Users\Rayan\Documents\WorkSpace\C#\tpPile\bin\Debug\net10.0\tpPile.deps.json
+C:\Users\Rayan\Documents\WorkSpace\C#\tpPile\bin\Debug\net10.0\tpPile.runtimeconfig.json
+C:\Users\Rayan\Documents\WorkSpace\C#\tpPile\bin\Debug\net10.0\tpPile.dll
+C:\Users\Rayan\Documents\WorkSpace\C#\tpPile\bin\Debug\net10.0\tpPile.pdb
+C:\Users\Rayan\Documents\WorkSpace\C#\tpPile\obj\Debug\net10.0\tpPile.dll
+C:\Users\Rayan\Documents\WorkSpace\C#\tpPile\obj\Debug\net10.0\refint\tpPile.dll
+C:\Users\Rayan\Documents\WorkSpace\C#\tpPile\obj\Debug\net10.0\tpPile.pdb
+C:\Users\Rayan\Documents\WorkSpace\C#\tpPile\obj\Debug\net10.0\tpPile.genruntimeconfig.cache
+C:\Users\Rayan\Documents\WorkSpace\C#\tpPile\obj\Debug\net10.0\ref\tpPile.dll
