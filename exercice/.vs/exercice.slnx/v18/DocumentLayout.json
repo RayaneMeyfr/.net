@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\exercice\\class\\pendu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|solutionrelative:class\\pendu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{192D1D85-99CF-428C-B3E4-05C95A27FD22}|..\\banque\\banque.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\banque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\exercice\\class\\generermot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|solutionrelative:class\\generermot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{192D1D85-99CF-428C-B3E4-05C95A27FD22}|..\\banque\\banque.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\banque\\class\\compteepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\exercice\\class\\salarie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|solutionrelative:class\\salarie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{192D1D85-99CF-428C-B3E4-05C95A27FD22}|..\\banque\\banque.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\banque\\class\\comptecourant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\exercice\\class\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|solutionrelative:class\\chaise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{192D1D85-99CF-428C-B3E4-05C95A27FD22}|..\\banque\\banque.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\banque\\class\\comptepayant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192D1D85-99CF-428C-B3E4-05C95A27FD22}|..\\banque\\banque.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\banque\\class\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192D1D85-99CF-428C-B3E4-05C95A27FD22}|..\\banque\\banque.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\banque\\class\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192D1D85-99CF-428C-B3E4-05C95A27FD22}|..\\banque\\banque.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\banque\\class\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192D1D85-99CF-428C-B3E4-05C95A27FD22}|..\\banque\\banque.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\banque\\class\\enum\\statut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFCF1EB6-70A3-1C11-339F-33D5B778E031}|exercice.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\exercice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,68 +42,119 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Chaise.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\Chaise.cs",
-              "RelativeDocumentMoniker": "Class\\Chaise.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\Chaise.cs",
-              "RelativeToolTip": "Class\\Chaise.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T10:34:41.358Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Pendu.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\Pendu.cs",
-              "RelativeDocumentMoniker": "Class\\Pendu.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\Pendu.cs",
-              "RelativeToolTip": "Class\\Pendu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T12:59:25.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GenererMot.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\GenererMot.cs",
-              "RelativeDocumentMoniker": "Class\\GenererMot.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\GenererMot.cs",
-              "RelativeToolTip": "Class\\GenererMot.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T12:49:36.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Salarie.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\Salarie.cs",
-              "RelativeDocumentMoniker": "Class\\Salarie.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Class\\Salarie.cs",
-              "RelativeToolTip": "Class\\Salarie.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwC4AAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T10:48:08.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAF8AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T10:22:30.056Z",
+              "WhenOpened": "2025-11-25T09:57:31.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Program.cs",
+              "RelativeDocumentMoniker": "..\\banque\\Program.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Program.cs",
+              "RelativeToolTip": "..\\banque\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:55:27.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Statut.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Class\\Enum\\Statut.cs",
+              "RelativeDocumentMoniker": "..\\banque\\Class\\Enum\\Statut.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Class\\Enum\\Statut.cs",
+              "RelativeToolTip": "..\\banque\\Class\\Enum\\Statut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:57:20.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Class\\Operation.cs",
+              "RelativeDocumentMoniker": "..\\banque\\Class\\Operation.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Class\\Operation.cs",
+              "RelativeToolTip": "..\\banque\\Class\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:51:59.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Class\\Client.cs",
+              "RelativeDocumentMoniker": "..\\banque\\Class\\Client.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Class\\Client.cs",
+              "RelativeToolTip": "..\\banque\\Class\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:48:59.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompteCourant.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Class\\CompteCourant.cs",
+              "RelativeDocumentMoniker": "..\\banque\\Class\\CompteCourant.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Class\\CompteCourant.cs",
+              "RelativeToolTip": "..\\banque\\Class\\CompteCourant.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:50:59.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompteEpargne.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Class\\CompteEpargne.cs",
+              "RelativeDocumentMoniker": "..\\banque\\Class\\CompteEpargne.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Class\\CompteEpargne.cs",
+              "RelativeToolTip": "..\\banque\\Class\\CompteEpargne.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:50:44.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComptePayant.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Class\\ComptePayant.cs",
+              "RelativeDocumentMoniker": "..\\banque\\Class\\ComptePayant.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Class\\ComptePayant.cs",
+              "RelativeToolTip": "..\\banque\\Class\\ComptePayant.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:50:22.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompteBancaire.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Class\\CompteBancaire.cs",
+              "RelativeDocumentMoniker": "..\\banque\\Class\\CompteBancaire.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\banque\\Class\\CompteBancaire.cs",
+              "RelativeToolTip": "..\\banque\\Class\\CompteBancaire.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:48:08.117Z",
               "EditorCaption": ""
             }
           ]

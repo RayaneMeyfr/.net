@@ -1,0 +1,15 @@
+C:\Users\Rayan\Documents\WorkSpace\C#\banque\bin\Debug\net10.0\banque.exe
+C:\Users\Rayan\Documents\WorkSpace\C#\banque\bin\Debug\net10.0\banque.deps.json
+C:\Users\Rayan\Documents\WorkSpace\C#\banque\bin\Debug\net10.0\banque.runtimeconfig.json
+C:\Users\Rayan\Documents\WorkSpace\C#\banque\bin\Debug\net10.0\banque.dll
+C:\Users\Rayan\Documents\WorkSpace\C#\banque\bin\Debug\net10.0\banque.pdb
+C:\Users\Rayan\Documents\WorkSpace\C#\banque\obj\Debug\net10.0\banque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayan\Documents\WorkSpace\C#\banque\obj\Debug\net10.0\banque.AssemblyInfoInputs.cache
+C:\Users\Rayan\Documents\WorkSpace\C#\banque\obj\Debug\net10.0\banque.AssemblyInfo.cs
+C:\Users\Rayan\Documents\WorkSpace\C#\banque\obj\Debug\net10.0\banque.csproj.CoreCompileInputs.cache
+C:\Users\Rayan\Documents\WorkSpace\C#\banque\obj\Debug\net10.0\banque.sourcelink.json
+C:\Users\Rayan\Documents\WorkSpace\C#\banque\obj\Debug\net10.0\banque.dll
+C:\Users\Rayan\Documents\WorkSpace\C#\banque\obj\Debug\net10.0\refint\banque.dll
+C:\Users\Rayan\Documents\WorkSpace\C#\banque\obj\Debug\net10.0\banque.pdb
+C:\Users\Rayan\Documents\WorkSpace\C#\banque\obj\Debug\net10.0\banque.genruntimeconfig.cache
+C:\Users\Rayan\Documents\WorkSpace\C#\banque\obj\Debug\net10.0\ref\banque.dll

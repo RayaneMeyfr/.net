@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../banque/banque.csproj" Id="192d1d85-99cf-428c-b3e4-05c95a27fd22" />
   <Project Path="exercice.csproj" />
 </Solution>
