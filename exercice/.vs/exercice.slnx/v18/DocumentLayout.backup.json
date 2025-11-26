@@ -3,7 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\exercice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52FDF516-7D6E-433D-AF8D-7D298FB57DB5}|..\\tpPile\\tpPile.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\tppile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1316FEB-A6B4-44E9-96A9-AC3C75E0B1F0}|..\\tpSql\\tpSql.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\tpsql\\bases.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1316FEB-A6B4-44E9-96A9-AC3C75E0B1F0}|..\\tpSql\\tpSql.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\tpsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FDF516-7D6E-433D-AF8D-7D298FB57DB5}|..\\tpPile\\tpPile.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\tppile\\bases.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FDF516-7D6E-433D-AF8D-7D298FB57DB5}|..\\tpPile\\tpPile.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\tppile\\tppile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52FDF516-7D6E-433D-AF8D-7D298FB57DB5}|..\\tpPile\\tpPile.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\tppile\\class\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -12,7 +21,19 @@
       "AbsoluteMoniker": "D:0:0:{52FDF516-7D6E-433D-AF8D-7D298FB57DB5}|..\\tpPile\\tpPile.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\tppile\\class\\generique\\pile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{52FDF516-7D6E-433D-AF8D-7D298FB57DB5}|..\\tpPile\\tpPile.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\tppile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F63BEA4F-7E57-4B53-A83B-1E52DD2B5CF6}|..\\Figure\\Figure.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\figure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FDF516-7D6E-433D-AF8D-7D298FB57DB5}|..\\tpPile\\tpPile.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\tppile\\bases.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1316FEB-A6B4-44E9-96A9-AC3C75E0B1F0}|..\\tpSql\\tpSql.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\tpsql\\bases.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1316FEB-A6B4-44E9-96A9-AC3C75E0B1F0}|..\\tpSql\\tpSql.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\tpsql\\bases.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +43,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bases.sql ",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpSql\\bases.sql",
+              "RelativeDocumentMoniker": "..\\tpSql\\bases.sql",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpSql\\bases.sql",
+              "RelativeToolTip": "..\\tpSql\\bases.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T08:54:21.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpSql\\Program.cs",
+              "RelativeDocumentMoniker": "..\\tpSql\\Program.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpSql\\Program.cs",
+              "RelativeToolTip": "..\\tpSql\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T08:53:58.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bases.sql ",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpPile\\bases.sql",
+              "RelativeDocumentMoniker": "..\\tpPile\\bases.sql",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpPile\\bases.sql",
+              "RelativeToolTip": "..\\tpPile\\bases.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T08:25:30.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tpPile",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpPile\\tpPile.csproj",
+              "RelativeDocumentMoniker": "..\\tpPile\\tpPile.csproj",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpPile\\tpPile.csproj",
+              "RelativeToolTip": "..\\tpPile\\tpPile.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T08:23:36.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Personne.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpPile\\Class\\Personne.cs",
               "RelativeDocumentMoniker": "..\\tpPile\\Class\\Personne.cs",
@@ -39,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\Figure\\Program.cs",
               "RelativeDocumentMoniker": "..\\Figure\\Program.cs",
@@ -52,26 +123,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Pile.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpPile\\Class\\Generique\\Pile.cs",
               "RelativeDocumentMoniker": "..\\tpPile\\Class\\Generique\\Pile.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpPile\\Class\\Generique\\Pile.cs",
               "RelativeToolTip": "..\\tpPile\\Class\\Generique\\Pile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T14:53:33.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpPile\\Program.cs",
               "RelativeDocumentMoniker": "..\\tpPile\\Program.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\tpPile\\Program.cs",
               "RelativeToolTip": "..\\tpPile\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T14:55:46.905Z",
               "EditorCaption": ""

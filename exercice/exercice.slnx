@@ -2,5 +2,6 @@
   <Project Path="../banque/banque.csproj" Id="192d1d85-99cf-428c-b3e4-05c95a27fd22" />
   <Project Path="../Figure/Figure.csproj" Id="f63bea4f-7e57-4b53-a83b-1e52dd2b5cf6" />
   <Project Path="../tpPile/tpPile.csproj" Id="52fdf516-7d6e-433d-af8d-7d298fb57db5" />
+  <Project Path="../tpSql/tpSql.csproj" Id="d1316feb-a6b4-44e9-96a9-ac3c75e0b1f0" />
   <Project Path="exercice.csproj" />
 </Solution>

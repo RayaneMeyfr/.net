@@ -1,0 +1,15 @@
+C:\Users\Rayan\Documents\WorkSpace\C#\tpSql\bin\Debug\net10.0\tpSql.exe
+C:\Users\Rayan\Documents\WorkSpace\C#\tpSql\bin\Debug\net10.0\tpSql.deps.json
+C:\Users\Rayan\Documents\WorkSpace\C#\tpSql\bin\Debug\net10.0\tpSql.runtimeconfig.json
+C:\Users\Rayan\Documents\WorkSpace\C#\tpSql\bin\Debug\net10.0\tpSql.dll
+C:\Users\Rayan\Documents\WorkSpace\C#\tpSql\bin\Debug\net10.0\tpSql.pdb
+C:\Users\Rayan\Documents\WorkSpace\C#\tpSql\obj\Debug\net10.0\tpSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayan\Documents\WorkSpace\C#\tpSql\obj\Debug\net10.0\tpSql.AssemblyInfoInputs.cache
+C:\Users\Rayan\Documents\WorkSpace\C#\tpSql\obj\Debug\net10.0\tpSql.AssemblyInfo.cs
+C:\Users\Rayan\Documents\WorkSpace\C#\tpSql\obj\Debug\net10.0\tpSql.csproj.CoreCompileInputs.cache
+C:\Users\Rayan\Documents\WorkSpace\C#\tpSql\obj\Debug\net10.0\tpSql.sourcelink.json
+C:\Users\Rayan\Documents\WorkSpace\C#\tpSql\obj\Debug\net10.0\tpSql.dll
+C:\Users\Rayan\Documents\WorkSpace\C#\tpSql\obj\Debug\net10.0\refint\tpSql.dll
+C:\Users\Rayan\Documents\WorkSpace\C#\tpSql\obj\Debug\net10.0\tpSql.pdb
+C:\Users\Rayan\Documents\WorkSpace\C#\tpSql\obj\Debug\net10.0\tpSql.genruntimeconfig.cache
+C:\Users\Rayan\Documents\WorkSpace\C#\tpSql\obj\Debug\net10.0\ref\tpSql.dll
